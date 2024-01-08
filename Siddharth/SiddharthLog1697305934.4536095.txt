@@ -1,0 +1,244 @@
+--------------------------------------------------------------------------------
+Siddharth kardile process logger : Sat Oct 14 23:22:14 2023
+--------------------------------------------------------------------------------
+
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'pid': 0}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'pid': 4}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 32}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Registry', 'pid': 100}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RuntimeBroker.exe', 'pid': 120}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'cpptools.exe', 'pid': 124}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 348}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'smss.exe', 'pid': 428}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'conhost.exe', 'pid': 456}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'AsusOptimizationStartupTask.exe', 'pid': 468}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchProtocolHost.exe', 'pid': 484}
+{'username': 'Font Driver Host\\UMFD-0', 'name': 'fontdrvhost.exe', 'pid': 516}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe', 'pid': 672}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 696}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wininit.exe', 'pid': 800}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'BraveCrashHandler64.exe', 'pid': 908}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Microsoft.Media.Player.exe', 'pid': 920}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'services.exe', 'pid': 940}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'lsass.exe', 'pid': 948}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe', 'pid': 1060}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 1092}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 1128}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 1148}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1180}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1264}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1384}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1404}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1440}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1476}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1516}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 1524}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1548}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1580}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1600}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1704}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1764}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'SecurityHealthSystray.exe', 'pid': 1784}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1808}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1820}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1872}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'explorer.exe', 'pid': 1936}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 1956}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 1980}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2052}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'StartMenuExperienceHost.exe', 'pid': 2060}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 2088}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'BraveCrashHandler.exe', 'pid': 2096}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 2148}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2248}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'printfilterpipelinesvc.exe', 'pid': 2272}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 2276}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'dasHost.exe', 'pid': 2340}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Video.UI.exe', 'pid': 2368}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 2380}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2432}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'amdfendrsr.exe', 'pid': 2444}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'atiesrxx.exe', 'pid': 2472}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2484}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 2504}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 2512}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'QtWebEngineProcess.exe', 'pid': 2604}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 2616}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2728}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2832}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 2840}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 2852}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'dllhost.exe', 'pid': 2912}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MemCompression', 'pid': 2916}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 2948}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 2980}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 2988}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RuntimeBroker.exe', 'pid': 3056}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 3228}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 3372}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 3532}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 3556}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'CPUMetricsServer.exe', 'pid': 3580}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 3600}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 3692}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 3704}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 3712}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'dasHost.exe', 'pid': 3724}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 3772}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 3836}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RuntimeBroker.exe', 'pid': 3868}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 3884}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'crashpad_handler.exe', 'pid': 3972}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 3980}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'SystemSettings.exe', 'pid': 4012}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 4036}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 4044}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusOptimization.exe', 'pid': 4128}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 4140}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'spoolsv.exe', 'pid': 4240}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AUEPDU.exe', 'pid': 4272}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 4336}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'GoogleCrashHandler.exe', 'pid': 4384}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 4404}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'GoogleCrashHandler64.exe', 'pid': 4436}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 4444}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 4460}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RtkAudUService64.exe', 'pid': 4604}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 4628}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 4640}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RtkAudUService64.exe', 'pid': 4648}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 4684}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 4832}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusAppService.exe', 'pid': 4852}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusLinkNear.exe', 'pid': 4864}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusLinkRemote.exe', 'pid': 4872}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusSoftwareManager.exe', 'pid': 4884}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusSwitch.exe', 'pid': 4896}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusSystemAnalysis.exe', 'pid': 4916}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AsusSystemDiagnosis.exe', 'pid': 4928}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SgrmBroker.exe', 'pid': 4964}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'ctfmon.exe', 'pid': 4996}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 5016}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5028}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 5040}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'ELANFPService.exe', 'pid': 5084}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'ibtsiva.exe', 'pid': 5116}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5156}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MsMpEng.exe', 'pid': 5160}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5180}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5352}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 5468}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WmiPrvSE.exe', 'pid': 5532}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 5628}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'AsusSoftwareManagerAgent.exe', 'pid': 5644}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5740}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5772}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 5888}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'WmiPrvSE.exe', 'pid': 5952}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 6004}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 6012}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'dllhost.exe', 'pid': 6072}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'unsecapp.exe', 'pid': 6456}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 6564}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 6632}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'NisSrv.exe', 'pid': 6868}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RuntimeBroker.exe', 'pid': 7040}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 7092}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'python.exe', 'pid': 7144}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Telegram.exe', 'pid': 7668}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 7844}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 7860}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'sihost.exe', 'pid': 7944}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'conhost.exe', 'pid': 7980}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 8040}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'python.exe', 'pid': 8052}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'taskhostw.exe', 'pid': 8200}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'svchost.exe', 'pid': 8324}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe', 'pid': 8332}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RuntimeBroker.exe', 'pid': 8368}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'TrustedInstaller.exe', 'pid': 8388}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'atieclxx.exe', 'pid': 8480}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 8496}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 8548}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'AsusOSD.exe', 'pid': 8628}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'ShellExperienceHost.exe', 'pid': 8632}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 8920}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'FileCoAuth.exe', 'pid': 8956}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 9052}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 9224}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 9260}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 9388}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'conhost.exe', 'pid': 9476}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 9716}
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'pid': 9732}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'svchost.exe', 'pid': 9952}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 9972}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 10028}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SecurityHealthService.exe', 'pid': 10228}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 10540}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'fodhelper.exe', 'pid': 10600}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 10700}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 10736}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WmiPrvSE.exe', 'pid': 10896}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 11120}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RuntimeBroker.exe', 'pid': 11140}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'TextInputHost.exe', 'pid': 11524}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 11564}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 11760}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'SearchApp.exe', 'pid': 11812}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'OneDrive.exe', 'pid': 11836}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'AUEPMaster.exe', 'pid': 11872}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'cmd.exe', 'pid': 11960}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 12064}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'conhost.exe', 'pid': 12068}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 12152}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 12180}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 12344}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Intel_PIE_Service.exe', 'pid': 12460}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 12588}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 12804}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchFilterHost.exe', 'pid': 13136}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'CompPkgSrv.exe', 'pid': 13208}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'UserOOBEBroker.exe', 'pid': 13256}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 13336}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe', 'pid': 13464}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'svchost.exe', 'pid': 13488}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 13604}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 13616}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 13640}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 13776}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 13912}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'cmd.exe', 'pid': 14036}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'TiWorker.exe', 'pid': 14188}
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'pid': 14532}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 14600}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 14636}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'conhost.exe', 'pid': 14736}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'taskhostw.exe', 'pid': 14808}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'ApplicationFrameHost.exe', 'pid': 14936}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MoUsoCoreWorker.exe', 'pid': 14940}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'MusNotifyIcon.exe', 'pid': 14948}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wlanext.exe', 'pid': 15064}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'cpptools.exe', 'pid': 15336}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 15440}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'brave.exe', 'pid': 15532}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'cncmd.exe', 'pid': 15612}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 15848}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'svchost.exe', 'pid': 16024}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'OfficeClickToRun.exe', 'pid': 16100}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 16180}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 16240}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RadeonSoftware.exe', 'pid': 16440}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'CalculatorApp.exe', 'pid': 16496}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 16544}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'GoogleDriveFS.exe', 'pid': 16568}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchIndexer.exe', 'pid': 16700}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'Code.exe', 'pid': 16772}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'winlogon.exe', 'pid': 16864}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe', 'pid': 16908}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'msedge.exe', 'pid': 16936}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'RtkAudUService64.exe', 'pid': 16964}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'pid': 16988}
+{'username': 'Window Manager\\DWM-10', 'name': 'dwm.exe', 'pid': 17024}
+{'username': 'Font Driver Host\\UMFD-10', 'name': 'fontdrvhost.exe', 'pid': 17112}
+{'username': 'LAPTOP-EBVTPKBS\\Asus', 'name': 'AppVShNotify.exe', 'pid': 17172}
